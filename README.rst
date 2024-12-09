@@ -2,7 +2,7 @@ Origins of unfolded networks and theory: Learning Iterative Soft Thresholding Al
 ------------
 Introduction
 ------------
-This project aims to implement the first unfolded neural network described in "Learning fast approximations of sparse coding" and 3 variants of it introduced in the article "Theoretical Linear Convergence of Unfolded ISTA and its Practical Weights and Thresholds" which gives theoritical guarantees of convergence.
+This project aims to implement the first unfolded neural network described in "Learning fast approximations of sparse coding" and 3 variants of it introduced in the article "Theoretical Linear Convergence of Unfolded ISTA and its Practical Weights and Thresholds" https://arxiv.org/abs/1808.10038 which gives theoritical guarantees of convergence.
 
 Installation
 ------------
